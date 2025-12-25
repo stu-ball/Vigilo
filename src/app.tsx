@@ -159,7 +159,7 @@ export function App() {
       <header class="flex flex-col sm:flex-row items-center justify-between w-full mb-8 gap-4 p-4 bg-card rounded-lg shadow-sm">
         <div class="flex items-center gap-3">
           <img src={logo} alt="Nick-Off Logo" class="logo" />
-          <h1 class="text-2xl font-bold">Vigilo</h1>
+          <h1 class="text-2xl font-bold">Nick-Off</h1>
           <div class="flex items-center gap-1 text-sm">
             {isMotionActive ? (
               <Activity class="w-4 h-4 text-red-500" />

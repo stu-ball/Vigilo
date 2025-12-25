@@ -1,6 +1,5 @@
 # 📸 Vigilo
 
-_"Vigilo"_ is Latin for "I watch over," which perfectly describes this portable security camera app.
 
 Turn any device with a camera into a portable security system! 🛡️ This slick web app is built with Preact and Vite, leveraging powerful computer vision to keep an eye on things for you.
 
@@ -8,7 +7,7 @@ Turn any device with a camera into a portable security system! 🛡️ This slic
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/eifr/Vigilo.git
+    git clone https://github.com/stu-ball/Vigilo.git
     ```
 2.  Navigate to the project directory:
     ```bash

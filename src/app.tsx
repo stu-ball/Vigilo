@@ -158,7 +158,7 @@ export function App() {
     <div class="min-h-screen w-full max-w-7xl mx-auto p-2 sm:p-4">
       <header class="flex flex-col sm:flex-row items-center justify-between w-full mb-8 gap-4 p-4 bg-card rounded-lg shadow-sm">
         <div class="flex items-center gap-3">
-          <img src={logo} alt="Vigilo Logo" class="logo" />
+          <img src={logo} alt="Nick-Off Logo" class="logo" />
           <h1 class="text-2xl font-bold">Vigilo</h1>
           <div class="flex items-center gap-1 text-sm">
             {isMotionActive ? (
@@ -193,7 +193,7 @@ export function App() {
             Theme
           </Button>
           <a
-            href="https://github.com/eifr/Vigilo"
+            href="https://github.com/stu-ball/Vigilo"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -272,7 +272,7 @@ export function App() {
         <p>
           Version 0.0.1 |{" "}
           <a
-            href="https://github.com/eifr/Vigilo/issues"
+            href="https://github.com/stu-ball/Vigilo/issues"
             target="_blank"
             rel="noopener noreferrer"
             class="hover:underline"
@@ -281,7 +281,7 @@ export function App() {
           </a>{" "}
           |{" "}
           <a
-            href="https://github.com/eifr/Vigilo#readme"
+            href="https://github.com/stu-ball/Vigilo#readme"
             target="_blank"
             rel="noopener noreferrer"
             class="hover:underline"
